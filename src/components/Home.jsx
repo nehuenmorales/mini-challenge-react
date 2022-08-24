@@ -9,9 +9,9 @@ import { info } from "../info/info"
 export default function Home() {
     return (
         <div className={s.container} >
-            <div className={s.link}>
+            {/* <div className={s.link}>
                 <Link style={{ "text-decoration": "none" }} to={"/form"}><button className={s.button}>Ir al formulario</button></Link>
-            </div>
+            </div> */}
             <div className={s.table}>
                 <table class="table">
                     <thead>
