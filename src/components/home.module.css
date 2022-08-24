@@ -1,0 +1,32 @@
+.container{
+    width: 100%;
+    display:grid;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.table{
+    width: 50em;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+  margin: 20px 0 20px 20px;
+  text-decoration: none;
+  background-color: #194963;
+  border-radius: 7px;
+  color: #ffffff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
+.link{
+   text-decoration: none;
+   display: flex;
+   justify-content: right; 
+   
+}
